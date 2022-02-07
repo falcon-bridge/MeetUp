@@ -1,7 +1,3 @@
-import { Fragment } from "react/cjs/react.production.min";
-
-import { useRouter } from "next/router";
-
 import MeetupDetail from "../../components/meetups/MeetupDetail";
 
 const MeetupDetails = () => {
